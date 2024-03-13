@@ -19,3 +19,5 @@ expanded urban area such as Savar, Keraniganj.
 
 
 
+![Park Distribution Ratio](https://github.com/MimShara1/Dhaka-Park-Distribution/blob/main/images/dhaka_park%20ratio_map.jpg)
+
